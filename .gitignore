@@ -141,7 +141,7 @@ pyenzyme/Examples/getJSONValid.py
 # PowerShell
 *.ps1
 
-# Datasets
-# datasets/*
+# not used in public notebook
+images/notUsed/*
 # exceptions
-# !datasets/Rother/
+# !...
