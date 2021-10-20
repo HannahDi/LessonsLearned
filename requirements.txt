@@ -1,0 +1,3 @@
+rise
+pandas
+git+git://github.com/EnzymeML/PyEnzyme.git@feature/experiment-class
